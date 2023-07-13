@@ -1,0 +1,48 @@
+header{
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+
+}
+body{
+    background-color: black;
+}
+p{
+    color:aquamarine;
+    text-align: center;
+    cursor: pointer;
+}
+.video{
+    width: 560px;
+    height: 650px;
+    t: center;
+}
+.travel{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 300px;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+.soon{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 300px;
+    font-size: 42px;
+    color:white;
+    text-align: center;
+}
+.sub{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color:gray;
+}
+div{
+    text-align: center;
+}
+#copy{
+    text-align: right;
+    color: grey;
+    font-size: 26px;
+}
